@@ -1,0 +1,82 @@
+Student Id = 1200233
+Name = Matt Damon
+course = CS
+Phone Number = 790-3233
+
+
+Student Id = 1200233
+Name = Matt Damon
+course = CS
+Phone Number = 790-3233
+
+
+Student Id = 1201237
+Name = Ben Affleck
+course = IA
+Phone Number = 432-4579
+
+
+Student Id = 1300899
+Name = Salma Hayek
+course = IB
+Phone Number = 790-0000
+
+
+Student Id = 1502378
+Name = Ken Wong
+course = CS
+Phone Number = 892-3765
+
+
+Student Id = 1603679
+Name = Ben Ma
+course = IB
+Phone Number = 693-2367
+
+
+Student Id = 1301983
+Name = Audrey Chan
+course = IA
+Phone Number = 521-3879
+
+
+Student Id = 1504252
+Name = Joyce Lim
+course = CT
+Phone Number = 790-3354
+
+
+Student Id = 1600993
+Name = Mala Wong
+course = CN
+Phone Number = 691-7933
+
+
+Student Id = 1406545
+Name = Rachel Smitch
+course = CS
+Phone Number = 522-3621
+
+
+Student Id = 1200084
+Name = Mat Roy
+course = IA
+Phone Number = 521-4252
+
+
+Student Id = 1605523
+Name = Kent
+course = CN
+Phone Number = 901-1234
+
+
+Student Id = 1600023
+Name = Royce Col
+course = CT
+Phone Number = 669-3434
+
+
+Student Id = 1702023
+Name = Micheal
+course = CN
+Phone Number = 669-3434

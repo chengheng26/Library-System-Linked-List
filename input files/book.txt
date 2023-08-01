@@ -1,0 +1,85 @@
+1200233	 Noel_Kalicharan Advanced_topics_in_C:_Core_Concepts_in_Data_Structures Apress 2361589071 2013 QA76.73.C15K35 20/1/2020  20/2/2020
+	
+
+1201237	 Tony_Gaddis/Godfrey_Muganda Starting_Out_with_Java:From_Control_Structures_Through_Data_Structures Addison-Wesley 0321545869 2011 QA76.73.C153S26 15/2/2020 15/3/2020	
+
+
+1300899	 Micheal_Main/Walter_Savitch Data_Structures_and_Other_Objects_Using_C++ Prentice_Hall 0132129485 2010 QA76.73.C153N868 27/2/2020 27/3/2020  
+
+
+1200233	 Nell_Dale/Daniel_Joyce/Chip_Weems Object-Oriented_Data_Structures_Using_Java Jones_&_Bartlett_Learning 1449613543 2011 QA76.58.M532 3/1/2020 3/2/2020 
+
+
+1201237  Micheal_Main/Walter_Savitch Data_Structures_and_Other_Objects_Using_C++ Prentice_Hall 0132129485 2010 QA76.73.C153N868 29/1/2020 29/2/2020  
+
+
+1200233	 Micheal_Main/Walter_Savitch Data_Structures_and_Other_Objects_Using_C++ Prentice_Hall 0132129485 2010 QA76.73.C153N868 17/2/2020 17/3/2020  
+
+
+1502378	 Noel_Kalicharan Advanced_topics_in_C:_Core_Concepts_in_Data_Structures Apress 2361589071 2013 QA76.73.C15K35 12/3/2020  12/4/2020
+	
+
+1603679	 Tony_Gaddis/Godfrey_Muganda Starting_Out_with_Java:From_Control_Structures_Through_Data_Structures Addison-Wesley 0321545869 2011 QA76.73.C153S26 17/2/2020 17/3/2020	
+
+
+1603679	 Noel_Kalicharan Advanced_topics_in_C:_Core_Concepts_in_Data_Structures Apress 2361589071 2013 QA76.73.C15K35 26/1/2020  26/2/2020
+
+
+1301983	 Noel_Kalicharan Advanced_topics_in_C:_Core_Concepts_in_Data_Structures Apress 2361589071 2013 QA76.73.C15K35 28/2/2020 28/3/2020  
+
+
+1502378	 Nell_Dale/Daniel_Joyce/Chip_Weems Object-Oriented_Data_Structures_Using_Java Jones_&_Bartlett_Learning 1449613543 2011 QA76.58.M532 9/2/2020 9/3/2020 
+
+
+1603679  Micheal_Main/Walter_Savitch Data_Structures_and_Other_Objects_Using_C++ Prentice_Hall 0132129485 2010 QA76.73.C153N869 18/3/2020 18/4/2020  
+
+
+1301983  Micheal_Main/Walter_Savitch Data_Structures_and_Other_Objects_Using_C++ Prentice_Hall 0132129485 2010 QA76.73.C153N868 20/3/2020 20/4/2020  
+
+
+1504252  David_Patterson/John_Hennessy Computer_Organization_and_Design Morgan_Kaufmann 9780124077 2014 QA76.9.C643P838 25/1/2020 15/2/2020  
+
+
+1200084  David_Patterson/John_Hennessy Computer_Organization_and_Design Morgan_Kaufmann 9780124077 2014 QA76.9.C643P838 23/2/2020 23/3/2020  
+
+
+1605523  David_Patterson/John_Hennessy Computer_Organization_and_Design Morgan_Kaufmann 9780124077 2014 QA76.9.C643P838 29/3/2020 29/4/2020 
+
+
+1502378  David_Patterson/John_Hennessy Computer_Organization_and_Design Morgan_Kaufmann 9780124077 2014 QA76.9.C643P838 19/1/2020 19/2/2020 
+
+
+1702023  David_Patterson/John_Hennessy Computer_Organization_and_Design Morgan_Kaufmann 9780124077 2014 QA76.9.C643P838 24/1/2020 24/2/2020 
+
+
+1600993  David_Harris/Sarah_Harris Digital_Design_and_Computer_Architecture Morgan_Kaufmann 9780123944 2013 TK7868.D5.H37 5/1/2020 5/2/2020  
+
+
+1406545  David_Harris/Sarah_Harris Digital_Design_and_Computer_Architecture Morgan_Kaufmann 9780123944 2013 TK7868.D5.H37 17/2/2020 17/3/2020  
+
+
+1600023  David_Harris/Sarah_Harris Digital_Design_and_Computer_Architecture Morgan_Kaufmann 9780123944 2013 TK7868.D5.H37 27/3/2020 27/4/2020  
+
+
+1702023  David_Harris/Sarah_Harris Digital_Design_and_Computer_Architecture Morgan_Kaufmann 9780123944 2013 TK7868.D5.H37 17/1/2020 17/2/2020  
+
+
+1200233  David_Harris/Sarah_Harris Digital_Design_and_Computer_Architecture Morgan_Kaufmann 9780123944 2013 TK7868.D5.H37 12/3/2020 12/4/2020
+
+
+1600023  Ronald_Walpole/Keying_Ye Probability_and_Statics_for_Engineers_and_Scientists Pearson 9780321748 2012 TA340.P76 9/1/2020 9/2/2020 
+
+
+1605523  Ronald_Walpole/Keying_Ye Probability_and_Statics_for_Engineers_and_Scientists Pearson 9780321748 2012 TA340.P76 12/2/2020 12/3/2020 
+
+
+1502378  Ronald_Walpole/Keying_Ye Probability_and_Statics_for_Engineers_and_Scientists Pearson 9780321748 2012 TA340.P76 29/2/2020 29/3/2020 
+
+
+1200084  Ronald_Walpole/Keying_Ye Probability_and_Statics_for_Engineers_and_Scientists Pearson 9780321748 2012 TA340.P76 22/2/2020 22/3/2020 
+
+
+1702023  Ronald_Walpole/Keying_Ye Probability_and_Statics_for_Engineers_and_Scientists Pearson 9780321748 2012 TA340.P76 29/1/2020 29/2/2020 
+
+
+1200233  Ronald_Walpole/Keying_Ye Probability_and_Statics_for_Engineers_and_Scientists Pearson 9780321748 2012 TA340.P76 27/3/2020 27/4/2020 
